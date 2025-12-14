@@ -1,0 +1,7 @@
+torch
+jupyter
+huggingface_hub
+datasets
+scikit-learn
+tqdm
+matplotlib

@@ -1,4 +1,5 @@
 torch
+numpy
 jupyter
 huggingface_hub
 datasets
